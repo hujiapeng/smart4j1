@@ -1,0 +1,1 @@
+Class上使用@WebServlet("/hello")注解，可以零配置web.xml
